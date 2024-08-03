@@ -55,9 +55,9 @@ Ele é indicado para uso em:
 
 ## Grandes corporações que aderiram ao uso do Node
 
-**Walmart:** No ano de 2013, a empresa migrou todo o seu tráfego mobile para o Node.js durante o período da Black Friday. Foi percebido que seus servidores chegaram a apenas 1% de utilização com 200 milhões de usuários online. `https://dejanglozic.com/2014/03/04/nodeday-2014/`
+**Walmart:** No ano de 2013, a empresa migrou todo o seu tráfego mobile para o Node.js durante o período da Black Friday. Foi percebido que seus servidores chegaram a apenas 1% de utilização com 200 milhões de usuários online. (`https://dejanglozic.com/2014/03/04/nodeday-2014/`)
 
-**PayPal:** Desenvolveu uma aplicação com Node.js e Java, que teve 33% menos linhas de código e 40% menos arquivos, dobrou o número de requisições por segundo e diminuiu em 35% o tempo de resposta. `https://medium.com/paypal-tech/node-js-at-paypal-4e2d1d08ce4f`
+**PayPal:** Desenvolveu uma aplicação com Node.js e Java, que teve 33% menos linhas de código e 40% menos arquivos, dobrou o número de requisições por segundo e diminuiu em 35% o tempo de resposta. (`https://medium.com/paypal-tech/node-js-at-paypal-4e2d1d08ce4f`)
 
 **Outras empresas que utilizam o Node.js:**
 - Netflix
