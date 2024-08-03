@@ -1,7 +1,41 @@
 # Progamação Web- Node.js
 
-![Sistema de Agendamento de Consultas Médicas](https://github.com/LukeZaneh/ProgWeb-SistemaConsultasMedicas/blob/main/consultorio/staticfiles/logo-consultorio.png)
+![Sistema de Agendamento de Consultas Médicas](https://github.com/izaramos/nodejs/blob/main/logoNode.png)
 
-## Descrição
+## O que é o Node.js?
 
-Este repositório é destinado ao trabalho de implementação da disciplina de Programação WEB - GAC116. O projeto consiste em um sistema de agendamento de consultas médicas usando Django. Vão existir dois tipos de usuários no sistema: cliente e administrador. O Django será utilizado para criar uma tela de administração e uma tela de login para autenticação dos usuários.
+O Node é um ambiente para executar JavaScript em um servidor, sem a necessidade de utilizar um navegador. Ele possui uma arquitetura orientada a eventos, onde, utilizando loops de eventos, a ferramenta interpreta as requisições de maneira assíncrona, minimizando bloqueios. Por isso, o Node é indicado para sistemas que lidam com um número elevado de requisições.
+A ideia inicial era que o Node fosse apenas um servidor, mas, após várias evoluções, tornou-se possível criar aplicações desktop (com o Node-WebKit), ambientes voltados ao desenvolvimento front-end, e montar servidores HTTP, HTTPS, DNS, TCP, entre outros.
+
+## Sua história
+
+- **Ano de 2009:**
+  - Nascimento do Node.js.
+  - Criação da primeira versão do npm (Node Package Manager).
+
+- **Ano de 2010:**
+  - Desenvolvimento do framework Express (voltado ao desenvolvimento web no Node).
+  - Lançamento do Socket.io (framework criado para facilitar a implantação de Sockets).
+
+- **Ano de 2011:**
+  - O npm ganha sua versão 1.0.
+  - LinkedIn e Uber adotam o Node em seus sistemas.
+
+- **Ano de 2013:**
+  - Ghost (primeira grande plataforma de blogs) passa a utilizar o Node.
+  - Nascimento da ferramenta web Koa, voltada para o Node.
+
+- **Ano de 2014:**
+  - O io.js se torna o maior fork do Node, com o objetivo de introduzir o suporte ao ES6 no mercado.
+
+- **Ano de 2015:**
+  - A Node.js Foundation é inaugurada e a quarta versão da ferramenta é lançada.
+  - O io.js é incorporado ao Node.
+
+- **Ano de 2017:**
+  - O Node ganha sua oitava versão.
+  - A V8 introduz o Node.js em sua suíte de testes, tornando a ferramenta oficialmente um mecanismo do JavaScript.
+
+- **Ano de 2020:**
+  - O Node.js em sua versão 18 é lançado, incluindo um módulo de test runner nativo, fetch global, melhorias no V8 e novos métodos para arrays.
+
