@@ -1,6 +1,6 @@
 # Progamação Web- Node.js
 
-![Sistema de Agendamento de Consultas Médicas](https://github.com/izaramos/nodejs/blob/main/logoNode.png)
+![Node.js](https://github.com/izaramos/nodejs/blob/main/logoNode.png)
 
 ## O que é o Node.js?
 
@@ -66,4 +66,8 @@ Ele é indicado para uso em:
 - Flickr
 - Mozilla
 - Yahoo
+
+## Guia de instalação do Node.js
+
+Para instalar o node, acesse o site oficial do framework Node.js e instalar com o item “Descarregue o node.js”:
 
