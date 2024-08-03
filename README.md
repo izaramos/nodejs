@@ -111,3 +111,9 @@ Ao acessar via navegador a URL informada (`http://localhost:9000/`), a mensagem 
 - Documentação do Node.js (`https://nodejs.org/api/`)
 - NodeSchool (`https://nodeschool.io/pt-br/`)
 - Documentação do Java (`https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR`)
+
+## Equipe
+
+- **Izabelle Ramos Tomé**
+- **Kleber Halley Sallum Guimarães**
+- **Lucas Carvalho**
