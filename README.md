@@ -87,6 +87,27 @@ Um arquivo com extensão “.js” deve ser criado, neste tutorial ele será nom
 ![criaServidor](https://github.com/izaramos/nodejs/blob/main/criaServidor.png)
 
 Essa requisição é necessária para que o node carregue o seu módulo http, responsável por criar o servidor.
+
 Em seguida, o servidor é oficialmente criado:
 
 ![servidor](https://github.com/izaramos/nodejs/blob/main/servidor.png)
+
+A variável “res”, é responsável por informar a resposta que será retornada para o usuário.
+Utilizando ela, a função “writeHead” define no header que a requisição feita teve status 200, ou seja, foi bem sucedida e uma mensagem de sucesso é apresentada para o usuário.
+
+Após encerrar o server, uma função “listen” é declarada e tem como objetivo receber as requisições retornadas pela porta 9000 e chamar um callback, retornando assim, uma mensagem interna.
+
+Esses são os passos para se criar um servidor utilizando o node.js.
+
+Para executá-lo, acesse, via terminal, a pasta onde seu arquivo foi salvo e execute:
+   ```bash
+   node servidor.js
+   ```
+
+Ao acessar via navegador a URL informada (`http://localhost:9000/`), a mensagem definida no código deve ser apresentada.
+
+## Links importantes
+- [Site do Node.js ] (`https://nodejs.org/pt`)
+- [Documentação do Node.js ] (`https://nodejs.org/api/`)
+- [NodeSchool ] (`https://nodeschool.io/pt-br/`)
+- [Documentação do Java ] (`https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR`)
