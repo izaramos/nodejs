@@ -108,6 +108,6 @@ Ao acessar via navegador a URL informada (`http://localhost:9000/`), a mensagem 
 
 ## Links importantes
 - Site do Node.js (`https://nodejs.org/pt`)
-- Documentação do Node.j (`https://nodejs.org/api/`)
+- Documentação do Node.js (`https://nodejs.org/api/`)
 - NodeSchool (`https://nodeschool.io/pt-br/`)
 - Documentação do Java (`https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR`)
