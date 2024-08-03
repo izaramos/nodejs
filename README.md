@@ -65,5 +65,5 @@ Ele é indicado para uso em:
 - New York Times
 - Flickr
 - Mozilla
--- Yahoo
+- Yahoo
 
