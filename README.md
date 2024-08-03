@@ -42,6 +42,7 @@ A ideia inicial era que o Node fosse apenas um servidor, mas, após várias evol
 ## Por que utilizar essa ferramenta?
 Sem a utilização do Node, a forma de lidar com a concorrência das várias requisições que um sistema recebe seria criando múltiplas threads. Porém, dentro de cada thread criada, há um tempo de resposta que não é aproveitado para nada enquanto a resposta não retorna; como consequência, a CPU fica bloqueada para realizar outras operações.
 Com a utilização do Node, diversas requisições podem ser executadas simultaneamente. Em vez de esperar uma resposta para a requisição, ele processa a requisição seguinte da fila. Assim que a resposta da primeira requisição chega, a ferramenta dispara um evento e o callback da requisição (ou seja, a função que executa a resposta) é colocado na fila de requisições e é executado assim que sua vez chegar, finalizando a primeira requisição.
+
 Ele é indicado para uso em:
 - APIs
 - Aplicações web de chat ou colaborativas para vários usuários
