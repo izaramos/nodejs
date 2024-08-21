@@ -55,9 +55,9 @@ Ele é indicado para uso em:
 
 ## Grandes corporações que aderiram ao uso do Node
 
-**Walmart:** No ano de 2013, a empresa migrou todo o seu tráfego mobile para o Node.js durante o período da Black Friday. Foi percebido que seus servidores chegaram a apenas 1% de utilização com 200 milhões de usuários online. [link](https://dejanglozic.com/2014/03/04/nodeday-2014/)
+**Walmart:** No ano de 2013, a empresa migrou todo o seu tráfego mobile para o Node.js durante o período da Black Friday. Foi percebido que seus servidores chegaram a apenas 1% de utilização com 200 milhões de usuários online. [NodeDay](https://dejanglozic.com/2014/03/04/nodeday-2014/)
 
-**PayPal:** Desenvolveu uma aplicação com Node.js e Java, que teve 33% menos linhas de código e 40% menos arquivos, dobrou o número de requisições por segundo e diminuiu em 35% o tempo de resposta. [link](https://medium.com/paypal-tech/node-js-at-paypal-4e2d1d08ce4f)
+**PayPal:** Desenvolveu uma aplicação com Node.js e Java, que teve 33% menos linhas de código e 40% menos arquivos, dobrou o número de requisições por segundo e diminuiu em 35% o tempo de resposta. [Medium Paypal](https://medium.com/paypal-tech/node-js-at-paypal-4e2d1d08ce4f)
 
 **Outras empresas que utilizam o Node.js:**
 - Netflix
@@ -69,7 +69,7 @@ Ele é indicado para uso em:
 
 ## Guia de instalação do Node.js
 
-Para instalar o node, acesse o site oficial do framework Node.js ([link](https://nodejs.org/pt)) e instalar com o item “Descarregue o node.js”:
+Para instalar o node, acesse o site oficial do framework [Node.js](https://nodejs.org/pt) e instalar com o item “Descarregue o node.js”:
 
 ![siteNode](https://github.com/izaramos/nodejs/blob/main/siteNode.png)
 
@@ -125,10 +125,10 @@ Para executá-lo, acesse, via terminal, a pasta onde seu arquivo foi salvo e exe
 Ao acessar via navegador a URL informada (`http://localhost:9000/`), a mensagem definida no código deve ser apresentada.
 
 ## Links importantes
-- Site do Node.js - [link](https://nodejs.org/pt)
-- Documentação do Node.js - [link](https://nodejs.org/api/)
-- NodeSchool - [link](https://nodeschool.io/pt-br/)
-- Documentação do Java - [link](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
+- Site do Node.js - [nodejs.org](https://nodejs.org/pt)
+- Documentação do Node.js - [nodejs.org/api](https://nodejs.org/api/)
+- NodeSchool - [nodeschool.io](https://nodeschool.io/pt-br/)
+- Documentação do Java - [java.com.br](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
 
 ## Equipe
 
