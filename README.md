@@ -107,10 +107,10 @@ Para executá-lo, acesse, via terminal, a pasta onde seu arquivo foi salvo e exe
 Ao acessar via navegador a URL informada (`http://localhost:9000/`), a mensagem definida no código deve ser apresentada.
 
 ## Links importantes
-- Site do Node.js [link](https://nodejs.org/pt)
-- Documentação do Node.js [link](https://nodejs.org/api/)
-- NodeSchool [link](https://nodeschool.io/pt-br/)
-- Documentação do Java [link](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
+- Site do Node.js - [link](https://nodejs.org/pt)
+- Documentação do Node.js - [link](https://nodejs.org/api/)
+- NodeSchool - [link](https://nodeschool.io/pt-br/)
+- Documentação do Java - [link](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
 
 ## Equipe
 
