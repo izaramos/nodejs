@@ -69,14 +69,32 @@ Ele é indicado para uso em:
 
 ## Guia de instalação do Node.js
 
-Para instalar o node, acesse o site oficial do framework Node.js e instalar com o item “Descarregue o node.js”:
+Para instalar o node, acesse o site oficial do framework Node.js ([link](https://nodejs.org/pt)) e instalar com o item “Descarregue o node.js”:
 
 ![siteNode](https://github.com/izaramos/nodejs/blob/main/siteNode.png)
+
+![instalacao_1](https://github.com/izaramos/nodejs/blob/main/instalacao_1.png)
+
+![instalacao_2](https://github.com/izaramos/nodejs/blob/main/instalacao_2.png)
+
+![instalacao_3](https://github.com/izaramos/nodejs/blob/main/instalacao_3.png)
+
+![instalacao_4](https://github.com/izaramos/nodejs/blob/main/instalacao_4.png)
+
+![instalacao_5](https://github.com/izaramos/nodejs/blob/main/instalacao_5.png)
+
+![instalacao_6](https://github.com/izaramos/nodejs/blob/main/instalacao_6.png)
+
+![instalacao_7](https://github.com/izaramos/nodejs/blob/main/instalacao_7.png)
+
+Após o donwload, basta clicar no arquivo baixado e seguir os passos informados para concluir a instalação.
 
 Acesse o seu terminal e confirme a instalação por meio de:
    ```bash
    node --version
    ```
+
+![node_version](https://github.com/izaramos/nodejs/blob/main/node_version.png)
 
 ## Guia de utilização do Node.js
 
