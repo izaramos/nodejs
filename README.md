@@ -73,7 +73,7 @@ Para instalar o node, acesse o site oficial do framework Node.js ([link](https:/
 
 ![siteNode](https://github.com/izaramos/nodejs/blob/main/siteNode.png)
 
-Após o donwload, basta clicar no arquivo baixado e seguir os passos informados para concluir a instalação.
+Após o download, basta clicar no arquivo baixado e seguir os passos informados para concluir a instalação.
 
 ![instalacao_1](https://github.com/izaramos/nodejs/blob/main/instalacao_1.png)
 
@@ -89,7 +89,7 @@ Após o donwload, basta clicar no arquivo baixado e seguir os passos informados 
 
 ![instalacao_7](https://github.com/izaramos/nodejs/blob/main/instalacao_7.png)
 
-Acesse o seu terminal e confirme a instalação por meio de:
+Após finalizar a instalação, acesse o seu terminal e confirme que o processo foi bem sucedido por meio de:
    ```bash
    node --version
    ```
@@ -98,7 +98,7 @@ Acesse o seu terminal e confirme a instalação por meio de:
 
 ## Guia de utilização do Node.js
 
-Para utilizar o node, é necessário ter o JavaScript instalado, para isso basta acessar o site oficial da linguagem e fazer o seu download.
+Para utilizar o node, é necessário ter o JavaScript instalado, para isso basta acessar o site oficial da linguagem e fazer o seu download. ([Java](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR))
 
 Um arquivo com extensão “.js” deve ser criado, neste tutorial ele será nomeado como “servidor.js” e requisitar a variável http.
 
