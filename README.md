@@ -73,6 +73,8 @@ Para instalar o node, acesse o site oficial do framework Node.js ([link](https:/
 
 ![siteNode](https://github.com/izaramos/nodejs/blob/main/siteNode.png)
 
+Após o donwload, basta clicar no arquivo baixado e seguir os passos informados para concluir a instalação.
+
 ![instalacao_1](https://github.com/izaramos/nodejs/blob/main/instalacao_1.png)
 
 ![instalacao_2](https://github.com/izaramos/nodejs/blob/main/instalacao_2.png)
@@ -86,8 +88,6 @@ Para instalar o node, acesse o site oficial do framework Node.js ([link](https:/
 ![instalacao_6](https://github.com/izaramos/nodejs/blob/main/instalacao_6.png)
 
 ![instalacao_7](https://github.com/izaramos/nodejs/blob/main/instalacao_7.png)
-
-Após o donwload, basta clicar no arquivo baixado e seguir os passos informados para concluir a instalação.
 
 Acesse o seu terminal e confirme a instalação por meio de:
    ```bash
